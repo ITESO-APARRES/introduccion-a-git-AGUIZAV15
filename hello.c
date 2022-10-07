@@ -1,3 +1,7 @@
+/*
+*   Archivo Hello.C que usamos para nuestro ejercicio de git basico
+*
+*/
 
 #include <stdio.h>
 
